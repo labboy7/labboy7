@@ -1,4 +1,0 @@
-noStroke();
-background(255, 255, 0);
-fill(0, 255, 0);
-ellipse(200, 200, 100, 100);
