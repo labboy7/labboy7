@@ -1,2 +1,2 @@
-![Hola!](bannnner.png)
+![Hola!](Banner 1.png)
 ### Hello
