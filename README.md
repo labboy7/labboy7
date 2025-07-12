@@ -1,2 +1,2 @@
-![Hola!](<Banner 1.png>)
+![Hola!](<meowl.jpg>)
 ### Hello
